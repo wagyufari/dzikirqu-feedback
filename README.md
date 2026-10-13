@@ -21,6 +21,7 @@ This repository holds no source code. It is the public place where feedback for 
 | 🐛 **Bug** | Something crashes, looks wrong, or doesn't behave as expected |
 | ✨ **Feature request** | A feature you'd like to see, or an improvement to an existing one |
 | 📖 **Content issue** | A typo, a wrong translation, or a data error in the Qur'an, hadith, dzikir, or prayer times |
+| 🎨 **Design rant** | Something looks off, feels clunky, or bugs you about the design: spacing, colours, layout, animations, or flow |
 | 💬 **General feedback** | Questions, thoughts, or ideas about the app |
 
 ## Writing a good bug report
