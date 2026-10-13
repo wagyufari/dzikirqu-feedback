@@ -1,7 +1,7 @@
 <h1 align="center">DzikirQu Feedback</h1>
 
 <p align="center">
-  <strong>Report bugs, request features, and share ideas for DzikirQu, the ad-free, privacy-first Islamic companion for iOS and Android.</strong>
+  <strong>Report bugs, request features, and share ideas for DzikirQu, the ad-free, privacy-first Islamic companion for iOS.</strong>
 </p>
 
 ---
@@ -29,8 +29,8 @@ Please include as much of this as you can:
 
 - **What happened**, and what you expected to happen
 - **Steps to reproduce** it
-- **App version** (Settings → About) and **platform** (iOS or Android, and the OS version)
-- **Device model**
+- **App version**: shown at the bottom of the Explore tab (e.g. `v1.2.3 (45)`)
+- **iOS version** and **device model**
 - **Screenshots or a screen recording**, if they help
 
 ## Guidelines
@@ -39,9 +39,5 @@ Please include as much of this as you can:
 - Be respectful and constructive.
 - Don't post personal information (email addresses, location, account details) in a public issue.
 - Written in English or Bahasa Indonesia is fine.
-
-## Related
-
-- [DzikirQu for Android and iOS](https://github.com/wagyufari/dzikirqu-mobile)
 
 Jazakumullahu khairan for helping make DzikirQu better.
